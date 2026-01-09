@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "my-mcp-server": {
+      "command": "/home/justine/Desktop/Work/Personal Project/MCPServer/venv/bin/python",
+      "args": [
+        "/home/justine/Desktop/Work/Personal Project/MCPServer/server.py"
+      ]
+    }
+  }
+}
