@@ -318,6 +318,5 @@ Use the primary location for new setups.
 
 - [MCP Python SDK Documentation](https://github.com/modelcontextprotocol/python-sdk)
 - [FastMCP Examples](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples)
-- [Windsurf MCP Guide](https://docs.codeium.com/windsurf/mcp)
 
 
